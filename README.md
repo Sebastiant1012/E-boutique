@@ -1,7 +1,5 @@
 # E-boutique
 
-Fait par Sebastian Toledo et Guillaume Tremblay
-
 
 ajouter pasmazon.sql a mysql
 
